@@ -1,2 +1,2 @@
-print (" Hello aravind to Linux env")
+print (" Hello  to Linux env")
 print ("result is ")
